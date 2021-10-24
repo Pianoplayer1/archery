@@ -1,0 +1,10 @@
+name: Pianoplayer1
+version: '${project.version}'
+main: archery.Main
+api-version: 1.17
+authors: [ Pianoplayer1 ]
+description: ArcheryCommand functions
+commands:
+  archery:
+    description: Start archery mode
+    usage: /<command> [fun] [amount|fire|projectile|riding]

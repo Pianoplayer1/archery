@@ -1,0 +1,21 @@
+# Set where to display practice mode scores
+actionBar: true
+bossBar: true
+scoreboard: true
+
+
+# Chat and action bar messages, use Minecraft color codes with '&'
+# Make sure to keep the same number of "%x" placeholders in the messages!
+actionBarMessage: "&6&lTarget hit! &c&l%d/%d"
+
+funBeginMessage: "&6&lYou are now in archery fun mode"
+funBeginMessageSub: "&7Modify the properties of every arrow you shoot in this mode via %s."
+funExitMessage: "&c&lYou have left archery fun mode"
+
+practiceBeginMessage: "&6&lYou are now in archery practice mode"
+practiceBeginMessageSub: "&7Practice your archery skills by hitting 10 Jack O' Lanterns with regular or special arrows!"
+practiceDoneMessage: "&6&lYou have finished in &a&l%d&6&l seconds!"
+practiceDoneMessageSub: "&7Your personal highscore is %d seconds."
+practiceExitMessage: "&c&lYou have left archery practice mode"
+
+specialArrowErrorMessage: "&c&lHey! &r&7Don't use special arrows like that bro"
