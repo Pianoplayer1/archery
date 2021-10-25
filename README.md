@@ -30,3 +30,6 @@ Please read through the text below for all the additional features I have implem
   fire | Whether the projectiles should burn | true \| false
   projectile | The type of projectile to fire | arrow \| egg \| enderpearl \| fireball \| snowball
   riding | Whether the player should ride a fired projectile | true \| false
+
+  > Note that there is no goal or score for fun mode, it is just a possibility to play around with projectiles a bit.
+  > So if you ever wanted to experience 100 ender pearls launched simultaneously or want to ride a burning snowball - have a go!
